@@ -1,7 +1,7 @@
 # Neural-Net-Caravan-Insurance-Predictor
 
 ## Motivation
-Neural network trained on data garnered from the CoIL 2000 Challenge to predict caravan insurance policy customers.
+Neural network trained on data garnered from the CoIL 2000 Challenge to predict caravan insurance policy holders.
 
 The data consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes. The data was collected to answer the following question: Can you predict who would be interested in buying a caravan insurance policy?[1].
 
