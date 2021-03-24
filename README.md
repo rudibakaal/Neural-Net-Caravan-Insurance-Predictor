@@ -15,8 +15,7 @@ By the 60th epoch, binary and validation classifiers reach 97% and 91% accuracy 
 ![caravan_insurance](https://user-images.githubusercontent.com/48378196/104682788-a22cb480-5749-11eb-9633-d7fdcd93e04c.png)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) 
+MIT
 
 ## References
 [1] P. van der Putten and M. van Someren (eds). CoIL Challenge 2000: The Insurance Company Case. Published by Sentient Machine Research, Amsterdam. Also a Leiden Institute of Advanced Computer Science Technical Report 2000-09. June 22, 2000.
- 
